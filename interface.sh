@@ -20,7 +20,7 @@ echo -e "$red [$green+$red] 2:$off S3 No-Request for Buckets ";
 echo -e "$red [$green+$red] 3:$off S3 Move file into Buckets ";
 echo -e "$red [$green+$red] 4:$off S3 Download everything    ";
 echo -e "$red [$green+$red] 5:$off S3 Check Bucket Disk Size    ";
-echo -e "$red [$green+$red] 6:$off EC2 Bucket juicy data    ";
+echo -e "$red [$green+$red] 6:$off EC2 Juicy Bucket Data    ";
 
 echo "";
 echo -ne "$red [$green+$red] Select An Option:$off: " ;
