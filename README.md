@@ -1,5 +1,5 @@
 # F.A.Q
-Automated Amazon Remote Hacking Tools
+Fully Automated Remote Hacking Tool for Amazon AWS
 
 # License
 EULA
@@ -21,7 +21,7 @@ EULA
 
 
 # Features
-- Fully Automated Remote Amazon Hacking Tools
+- Fully Automated Remote Hacking Tool for Amazon AWS
 
 # Install & Run
 - chmod u+x *
