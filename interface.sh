@@ -8,7 +8,7 @@ off="\e[0m"
 clear
 function banner() {
 echo "
-					       Amazon Hack Tools
+					       Amazon AWS Hack Tools
         					        version 1.0a
 					       Coder  - Haroon Awan
 "
