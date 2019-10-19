@@ -24,6 +24,7 @@ EULA
 - Fully Automated Remote Hacking Tool for Amazon AWS
 
 # Install & Run
+- echo "y" | apt-get install && pip3 install aws && pip3 install awscli && echo "y" | apt-get install ruby
 - chmod u+x *
 - ./interface.sh
 
